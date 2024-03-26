@@ -1,0 +1,12 @@
+router
+enable
+config ter
+inter @name
+ip add @ip @mask
+
+
+--- config network
+show ip route 
+
+config ter
+ip route @resau of the another local @mask inter exit of the router 
